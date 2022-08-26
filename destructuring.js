@@ -13,5 +13,3 @@ console.log(area)
 // Array destructuring
 const [first, second] = [22, 44, 32, 55]
 console.log(first, second);
-
-const
